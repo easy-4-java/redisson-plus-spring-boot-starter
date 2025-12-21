@@ -363,8 +363,6 @@
 		<maven.version>3.9.9</maven.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-		<maven.compiler.source>${java.version}</maven.compiler.source>
-		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<maven-dependency-plugin.version>3.8.0</maven-dependency-plugin.version>
 		<maven-gpg-plugin.version>3.2.6</maven-gpg-plugin.version>
 		<maven-nexus-staging-plugin.version>1.7.0</maven-nexus-staging-plugin.version>

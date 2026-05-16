@@ -9,7 +9,7 @@
 		<relativePath /> 
 	</parent>
 
-	<groupId>com.github.hiwepy</groupId>
+	<groupId>io.github.hiwepy</groupId>
 	<artifactId>redisson-plus-spring-boot-starter</artifactId>
 	<description>Spring Boot Starter For Redisson Extension</description>
 	<version>3.4.x.20251227-SNAPSHOT</version>
@@ -378,7 +378,7 @@
 				</exclusions>
 			</dependency>
 			<dependency>
-				<groupId>com.github.hiwepy</groupId>
+				<groupId>io.github.hiwepy</groupId>
 				<artifactId>spring-biz</artifactId>
 				<version>${spring-biz.version}</version>
 			</dependency>
@@ -441,7 +441,7 @@
 
 		
 		<dependency>
-			<groupId>com.github.hiwepy</groupId>
+			<groupId>io.github.hiwepy</groupId>
 			<artifactId>spring-biz</artifactId>
 		</dependency>
 		<dependency>
